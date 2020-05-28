@@ -1,0 +1,7 @@
+C:\Users\amita\source\repos\Sunday\Sunday\bin\Debug\Sunday.exe.config
+C:\Users\amita\source\repos\Sunday\Sunday\bin\Debug\Sunday.exe
+C:\Users\amita\source\repos\Sunday\Sunday\bin\Debug\Sunday.pdb
+C:\Users\amita\source\repos\Sunday\Sunday\obj\Debug\Sunday.csprojAssemblyReference.cache
+C:\Users\amita\source\repos\Sunday\Sunday\obj\Debug\Sunday.csproj.CoreCompileInputs.cache
+C:\Users\amita\source\repos\Sunday\Sunday\obj\Debug\Sunday.exe
+C:\Users\amita\source\repos\Sunday\Sunday\obj\Debug\Sunday.pdb
