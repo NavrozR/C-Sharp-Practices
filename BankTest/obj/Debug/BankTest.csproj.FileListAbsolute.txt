@@ -1,0 +1,6 @@
+C:\Users\amita\source\repos\BankTest\BankTest\bin\Debug\BankTest.exe.config
+C:\Users\amita\source\repos\BankTest\BankTest\bin\Debug\BankTest.exe
+C:\Users\amita\source\repos\BankTest\BankTest\bin\Debug\BankTest.pdb
+C:\Users\amita\source\repos\BankTest\BankTest\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
+C:\Users\amita\source\repos\BankTest\BankTest\obj\Debug\BankTest.exe
+C:\Users\amita\source\repos\BankTest\BankTest\obj\Debug\BankTest.pdb
